@@ -10,7 +10,7 @@ public class MoveAllXtoend {
             System.out.println(s);
             return;
         }
-
+        //LOGIC PART
         char ch = str.charAt(index);
 
         if(ch == 'x'){
